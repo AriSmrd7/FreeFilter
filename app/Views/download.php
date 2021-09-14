@@ -34,9 +34,6 @@
 </head>
 
 <body>
-
-  <!-- ======= Header ======= -->
-
   <!-- ======= Header ======= -->
   <?= $this->include('pages/header2') ?>
   <!-- End Header --><!-- End Header -->
